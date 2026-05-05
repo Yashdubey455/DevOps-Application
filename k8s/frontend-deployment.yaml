@@ -15,7 +15,7 @@ spec:
    spec:
     containers:
     - name: frontend-cont
-      image: frontend:latest
+      image: yashdubey455/frontend:5
       imagePullPolicy: Never
 
       ports: 
